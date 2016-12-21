@@ -1,9 +1,15 @@
 use_frameworks!
 
-platform :ios, '8.0'
+# platform :ios, '8.0'
 
-target 'SnowflakeDemo' do
+target 'iOSDemo' do
  pod 'Snowflake', path: '../../'
  pod 'Reindeer', git: 'https://github.com/onmyway133/Reindeer.git'
+end
+
+
+target 'macOSDemo' do
+    pod 'Snowflake', path: '../../'
+    pod 'Reindeer', git: 'https://github.com/onmyway133/Reindeer.git'
 end
 

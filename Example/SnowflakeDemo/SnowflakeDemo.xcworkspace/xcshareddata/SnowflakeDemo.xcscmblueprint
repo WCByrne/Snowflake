@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8D9D1E7A69E28F63CC0D0E3260A692D03551E17B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C3D502108DE11288032DEE253BCD4CD95B796345" : 9223372036854775807,
+    "8D9D1E7A69E28F63CC0D0E3260A692D03551E17B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D5CF2426-3AA7-4BEA-B591-C4D2DB3460F9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C3D502108DE11288032DEE253BCD4CD95B796345" : "..\/macOS\/Lingo",
+    "8D9D1E7A69E28F63CC0D0E3260A692D03551E17B" : "Snowflake\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SnowflakeDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/SnowflakeDemo\/SnowflakeDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WCByrne\/Snowflake.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D9D1E7A69E28F63CC0D0E3260A692D03551E17B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TheNounProject\/Lingo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3D502108DE11288032DEE253BCD4CD95B796345"
+    }
+  ]
+}

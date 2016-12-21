@@ -2,7 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:SnowflakeDemo.xcodeproj">
+      location = "group:/Users/Wes/Documents/NounProject/Libraries/Snowflake/Example/SnowflakeDemo/SnowflakeDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../macOS/Lingo/CBCollectionView/CBCollectionView.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
